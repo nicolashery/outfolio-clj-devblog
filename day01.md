@@ -47,4 +47,4 @@ The rest of the day was quite slow, as I'm getting used to writing Clojure, and 
 
 Sublime Text is my primary editor, but I'm using LightTable as well, I find it really useful as a "scratch pad" and to explore, evaluating things directly in source files with `Cmd+Enter` (`Cmd+Shift+Enter` to evaluate the entire file). I'll need to polish my workflow a bit, lots of `Ctrl+C` followed by `lein run` to see the results. I think it's possible to do some "live development" (see simple changes without restarting the app), but I'll leave that for another time.
 
-Commit at end of day: https://github.com/nicolashery/outfolio-clj/commit/310cfe144ebddf4e7cee77459b350edeb8f6f04f
+Commit at end of day: [310cfe1](https://github.com/nicolashery/outfolio-clj/commit/310cfe144ebddf4e7cee77459b350edeb8f6f04f)

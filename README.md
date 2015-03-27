@@ -7,3 +7,4 @@ The objective is to keep track of any learnings and observations from my Clojure
 My background is essentially JavaScript (some Python in the past), mostly frontend and some backend with Node.js. Before starting the project of rewriting Outfolio in Clojure, I had read a lot of Clojure tutorials (ex: [Clojure for the Brave and True](http://www.braveclojure.com/) and [Clojure from the ground up](https://aphyr.com/tags/Clojure-from-the-ground-up)), and had done some Clojure exercises on [4Clojure](https://www.4clojure.com/).
 
 - [Day 1](day01.md)
+- [Day 2](day02.md)
