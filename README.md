@@ -9,3 +9,4 @@ My background is essentially JavaScript (some Python in the past), mostly fronte
 - [Day 1](day01.md)
 - [Day 2](day02.md)
 - [Day 3](day03.md)
+- [Day 4](day04.md)
